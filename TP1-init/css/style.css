@@ -7,13 +7,16 @@
   color:red;
 }
 
+.green {
+  color:green;
+}
 h2 {
     margin-bottom: 5px;
 }
 
 #clock {
     height: 15px;
-    margin-left: 50px; 
+    margin-left: 50px;
     font-size : 14pt;
 }
 
